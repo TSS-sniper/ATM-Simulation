@@ -1,4 +1,4 @@
-## TASK-1: ATM Simulation using Python:
+## TASK-1: ATM Simulation using Python
 A simple python program to simulate the basic functions of an ATM machine.
 ### Included features:
 * Account balance inquiry
